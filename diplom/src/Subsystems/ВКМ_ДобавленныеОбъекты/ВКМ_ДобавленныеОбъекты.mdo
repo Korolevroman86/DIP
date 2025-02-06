@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b8379fd2-4701-42b1-ac2c-afbf1fbb32be">
+  <name>ВКМ_ДобавленныеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Добавленные объекты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Document.ВКМ_ОбслуживаниеКлиентов</content>
+  <content>Role.ВКМ_Бухгалтер</content>
+  <content>Role.ВКМ_Менеджер</content>
+  <content>Role.ВКМ_Специалист</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
+  <content>AccumulationRegister.ВКМ_РаботыВыполненныеКлиенту</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыДляОповещенияТелеграм</content>
+  <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
+  <content>CommonModule.ВКМ_Телеграм</content>
+  <content>ScheduledJob.ВКМ_РассылкаСообщенийТелеграм</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБотуДляОтправки</content>
+  <content>CommonModule.ВКМ_РаботаСФормами</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>InformationRegister.ВКМ_ГрафикРаботы</content>
+  <content>InformationRegister.ВКМ_ПринятыеУволенныеСотрудники</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>Enum.ВКМ_ДолжностиСотрудников</content>
+  <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
+  <content>CommandGroup.ВКМ_Справочники</content>
+  <content>CommandGroup.ВКМ_Документы</content>
+  <content>AccumulationRegister.ВКМ_РаботыВыполненныеСотрудником</content>
+  <content>Document.ВКМ_ПриемСотрудниковИУстановкаОплат</content>
+  <content>Document.ВКМ_УвольнениеСотрудников</content>
+  <content>DataProcessor.ЗаполнениеГрафикаРаботы</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Role.ВКМ_КадровикРасчетчик</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>CommonModule.ВКМ_МассовоеСозданиеРеализаций</content>
+  <content>CommonModule.ВКМ_РасчетыИНачисления</content>
+  <content>CommandGroup.ВКМ_Регистры</content>
+  <content>CommandGroup.ВКМ_Данные</content>
+  <content>InformationRegister.ВКМ_ГрафикОтпусков</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+</mdclass:Subsystem>
